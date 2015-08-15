@@ -65,7 +65,7 @@
             <header>
                 <div class="puntos_bg">
                     <div class="barra-superior">
-                        <p class="texto-titulo">Lorem ipsum dolor sit amet</p>
+                        <p class="texto-titulo">Texto de Exemplo</p>
                     </div>
                 </div>
                 <div id="logo">
